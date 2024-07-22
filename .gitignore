@@ -1,7 +1,7 @@
 __pycache__/
 
 # Ignore the virtual environment directory
-MO_venv/
+SM_PJ/
 
 # Ignore all bytecode files
 *.pyc
